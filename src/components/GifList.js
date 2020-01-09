@@ -1,0 +1,1 @@
+const APIURL = 'https://api.giphy.com/v1/gifs/search?q=dolphin&api_key=&ZsOoZHZEG8AnzCfjFDdYJzHHqMP3kpWmrating=g'
